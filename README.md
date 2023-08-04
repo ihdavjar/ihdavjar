@@ -1,10 +1,10 @@
 ## Hi there 👋
 I am Kalbhavi Vadhi Raj, a junior at IIT-J pursuing a Bachelor of Technology in Electrical Engineering. I enjoy applying computer science, electronics, and mechanics to multidisciplinary projects.
 
-- 🧬 Fields I'm interested in - **Machine Learning**, **Robotics**, **Bioinformatics** and **Quantum Computation**
-- 🌱 I have experience in - ML/DL applications in aerodynamics and biology.
+- 🤖 Fields I'm interested in - **Machine Learning**, **Robotics**, **Bioinformatics** and **Quantum Computation**
+- 🥼 I have experience in - ML/DL applications in aerodynamics and biology.
 - 💻 I'm looking forward to learn more about ML/DL algorithm and their application in various fields.
-- 😄 In addition to academics, I enjoy playing guitar and vector art.
+- 🎸 In addition to academics, I enjoy playing guitar and vector art.
 - 📫 How to reach me: raj.31@iitj.ac.in
 
 
