@@ -6,7 +6,7 @@ I am Kalbhavi Vadhi Raj, a junior at IIT-J pursuing a Bachelor of Technology in
 - 💻 I'm looking forward to learn more about ML/DL algorithm and their application in various fields.
 - 🎸 In addition to academics, I enjoy playing guitar and vector art.
 - 📫 How to reach me: raj.31@iitj.ac.in
-- [Resume](https://drive.google.com/file/d/1uVso8xTdfGx7NbyxllS_525Lx6EP_4Sw/view?usp=drive_link)
+- [Resume](https://drive.google.com/file/d/1QN583WmDnjMWrrE3wW0wzKnZj_k9tepv/view?usp=sharing)
 
 
 ## 💻 Tech Stack:
